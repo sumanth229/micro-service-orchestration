@@ -1,0 +1,82 @@
+[
+    {
+        "Name": "Warrior",
+        "Color": "red",
+        "Sub Classes": [
+            {
+                "Name": "Fighter",
+                "Color": "blue"
+            },
+            {
+                "Name": "Paladin",
+                "Color": "lighblue"
+            },
+            {
+                "Name": "Ranger",
+                "Color": "lighgreen"
+            }
+        ]
+    },
+    {
+        "Name": "Wizard",
+        "Color": "green",
+        "Sub Classes": [
+            {
+                "Name": "Mage",
+                "Color": "grey"
+            },
+            {
+                "Name": "Specialist wizard",
+                "Color": "lightgrey"
+            }
+        ]
+    },
+    {
+        "Name": "Priest",
+        "Color": "white",
+        "Sub Classes": [
+            {
+                "Name": "Cleric",
+                "Color": "red"
+            },
+            {
+                "Name": "Druid",
+                "Color": "green"
+            },
+            {
+                "Name": "Priest of specific mythos",
+                "Color": "white"
+            }
+        ]
+    },
+    {
+        "Name": "Rogue",
+        "Color": "yellow",
+        "Sub Classes": [
+            {
+                "Name": "Thief",
+                "Color": "yellow",
+                "Sub Classes": [
+                    {
+                        "Name": "Assassin",
+                        "Color": "lighblue",
+                        "Sub Classes": [
+                            {
+                                "Name": "AssassinChild",
+                                "Color": "lighblue"
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "Assassin1",
+                        "Color": "lighblue"
+                    }
+                ]
+            },
+            {
+                "Name": "Bard",
+                "Color": "blue"
+            }
+        ]
+    }
+]
